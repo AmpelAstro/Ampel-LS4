@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/AmpelAstro/cookiecutter-ampel",
+  "commit": "98b1d26236cfeb4d0a45cd197dc1ff8e75c2675e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "LS4",
+      "github_org_or_username": "AmpelAstro",
+      "description": "LS4 support for the Ampel system",
+      "author_full_name": "Alexandra Stronomer",
+      "author_email": "a.stronomer@mail.to",
+      "version": "0.10.0a0",
+      "_template": "https://github.com/AmpelAstro/cookiecutter-ampel",
+      "_commit": "98b1d26236cfeb4d0a45cd197dc1ff8e75c2675e"
+    }
+  },
+  "directory": null
+}
