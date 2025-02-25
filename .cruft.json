@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/AmpelAstro/cookiecutter-ampel",
-  "commit": "98b1d26236cfeb4d0a45cd197dc1ff8e75c2675e",
+  "commit": "36400808eb566c83781f763148fd7cb6cef2f076",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -11,7 +11,7 @@
       "author_email": "a.stronomer@mail.to",
       "version": "0.10.0a0",
       "_template": "https://github.com/AmpelAstro/cookiecutter-ampel",
-      "_commit": "98b1d26236cfeb4d0a45cd197dc1ff8e75c2675e"
+      "_commit": "36400808eb566c83781f763148fd7cb6cef2f076"
     }
   },
   "directory": null
