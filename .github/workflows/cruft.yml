@@ -2,9 +2,7 @@ name: Check for updates in template repository
 permissions:
   contents: write
   pull-requests: write
-on:
-  schedule:
-    - cron: "*/5 * * * *" # Once an hour at 00:00
+on: workflow_dispatch
 jobs:
   check-for-updates:
     runs-on: ubuntu-latest
