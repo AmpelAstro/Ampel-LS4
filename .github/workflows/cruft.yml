@@ -4,7 +4,7 @@ permissions:
   pull-requests: write
 on:
   schedule:
-    - cron: "0 * * * *" # Once an hour at 00:00
+    - cron: "*/5 * * * *" # Once an hour at 00:00
 jobs:
   check-for-updates:
     runs-on: ubuntu-latest
